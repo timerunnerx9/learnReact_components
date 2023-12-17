@@ -5,7 +5,6 @@ import {GoBell, GoCloud, GoDatabase} from "react-icons/go";
 function ButtonPage() {
 
     const handleClick = () =>{
-        console.log("button clicked");
     };
 
     return <div>
